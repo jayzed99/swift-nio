@@ -10354,7 +10354,7 @@
          name = "NIOChatClient";
          productName = "NIOChatClient";
          productReference = "swift-nio::NIOChatClient::Product";
-         productType = "com.apple.product-type.tool";
+         productType = "com.apple.product-type.application";
       };
       "swift-nio::NIOChatClient::Product" = {
          isa = "PBXFileReference";
@@ -10380,7 +10380,7 @@
          name = "NIOChatServer";
          productName = "NIOChatServer";
          productReference = "swift-nio::NIOChatServer::Product";
-         productType = "com.apple.product-type.tool";
+         productType = "com.apple.product-type.application";
       };
       "swift-nio::NIOChatServer::Product" = {
          isa = "PBXFileReference";
@@ -10456,7 +10456,7 @@
          name = "NIOCrashTester";
          productName = "NIOCrashTester";
          productReference = "swift-nio::NIOCrashTester::Product";
-         productType = "com.apple.product-type.tool";
+         productType = "com.apple.product-type.application";
       };
       "swift-nio::NIOCrashTester::Product" = {
          isa = "PBXFileReference";
@@ -10482,7 +10482,7 @@
          name = "NIOEchoClient";
          productName = "NIOEchoClient";
          productReference = "swift-nio::NIOEchoClient::Product";
-         productType = "com.apple.product-type.tool";
+         productType = "com.apple.product-type.application";
       };
       "swift-nio::NIOEchoClient::Product" = {
          isa = "PBXFileReference";
@@ -10508,7 +10508,7 @@
          name = "NIOEchoServer";
          productName = "NIOEchoServer";
          productReference = "swift-nio::NIOEchoServer::Product";
-         productType = "com.apple.product-type.tool";
+         productType = "com.apple.product-type.application";
       };
       "swift-nio::NIOEchoServer::Product" = {
          isa = "PBXFileReference";
@@ -10616,7 +10616,7 @@
          name = "NIOHTTP1Client";
          productName = "NIOHTTP1Client";
          productReference = "swift-nio::NIOHTTP1Client::Product";
-         productType = "com.apple.product-type.tool";
+         productType = "com.apple.product-type.application";
       };
       "swift-nio::NIOHTTP1Client::Product" = {
          isa = "PBXFileReference";
@@ -10644,7 +10644,7 @@
          name = "NIOHTTP1Server";
          productName = "NIOHTTP1Server";
          productReference = "swift-nio::NIOHTTP1Server::Product";
-         productType = "com.apple.product-type.tool";
+         productType = "com.apple.product-type.application";
       };
       "swift-nio::NIOHTTP1Server::Product" = {
          isa = "PBXFileReference";
@@ -10700,7 +10700,7 @@
          name = "NIOMulticastChat";
          productName = "NIOMulticastChat";
          productReference = "swift-nio::NIOMulticastChat::Product";
-         productType = "com.apple.product-type.tool";
+         productType = "com.apple.product-type.application";
       };
       "swift-nio::NIOMulticastChat::Product" = {
          isa = "PBXFileReference";
@@ -10730,7 +10730,7 @@
          name = "NIOPerformanceTester";
          productName = "NIOPerformanceTester";
          productReference = "swift-nio::NIOPerformanceTester::Product";
-         productType = "com.apple.product-type.tool";
+         productType = "com.apple.product-type.application";
       };
       "swift-nio::NIOPerformanceTester::Product" = {
          isa = "PBXFileReference";
@@ -10897,7 +10897,7 @@
          name = "NIOUDPEchoClient";
          productName = "NIOUDPEchoClient";
          productReference = "swift-nio::NIOUDPEchoClient::Product";
-         productType = "com.apple.product-type.tool";
+         productType = "com.apple.product-type.application";
       };
       "swift-nio::NIOUDPEchoClient::Product" = {
          isa = "PBXFileReference";
@@ -10923,7 +10923,7 @@
          name = "NIOUDPEchoServer";
          productName = "NIOUDPEchoServer";
          productReference = "swift-nio::NIOUDPEchoServer::Product";
-         productType = "com.apple.product-type.tool";
+         productType = "com.apple.product-type.application";
       };
       "swift-nio::NIOUDPEchoServer::Product" = {
          isa = "PBXFileReference";
@@ -10980,7 +10980,7 @@
          name = "NIOWebSocketClient";
          productName = "NIOWebSocketClient";
          productReference = "swift-nio::NIOWebSocketClient::Product";
-         productType = "com.apple.product-type.tool";
+         productType = "com.apple.product-type.application";
       };
       "swift-nio::NIOWebSocketClient::Product" = {
          isa = "PBXFileReference";
@@ -11009,7 +11009,7 @@
          name = "NIOWebSocketServer";
          productName = "NIOWebSocketServer";
          productReference = "swift-nio::NIOWebSocketServer::Product";
-         productType = "com.apple.product-type.tool";
+         productType = "com.apple.product-type.application";
       };
       "swift-nio::NIOWebSocketServer::Product" = {
          isa = "PBXFileReference";
